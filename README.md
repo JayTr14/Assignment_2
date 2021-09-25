@@ -1,2 +1,1 @@
-# Assignment_2
-First commit
+assignment for ATM script
